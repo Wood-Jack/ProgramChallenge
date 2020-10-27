@@ -4,7 +4,7 @@ from TrainStation import TrainStation
 
 #
 #
-# Project Name:   Programming Challenge
+# Project Name:   MainDriver
 # Programmer:    Woodrow Jackson
 #
 #
@@ -32,7 +32,7 @@ print("Output 2 Distance in between :", train.inBetweenDistance(['A', 'D']))
 print("Output 3 Distance in between :", train.inBetweenDistance(['A', 'D', 'C']))
 
 # Distance of  A-E-B-C-D.
-print("Output 4 Distance in between :", train.inBetweenDistance(['A', 'E', 'B', 'C']))
+print("Output 4 Distance in between :", train.inBetweenDistance(['A', 'E', 'B', 'C','D']))
 
 # distance of A-E-D
 
